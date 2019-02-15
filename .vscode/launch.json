@@ -6,6 +6,6 @@
         "request": "launch",
         "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/MyPlugin.dll",
         "preLaunchTask": "build",
-        "args": "--file \"D:\\opencatapultdemo\\CodeGeneratorProviderTest.json\""
+        "args": "--file \"D:\\opencatapultdemo\\MyPlugin\\CodeGeneratorProviderTest.json\""
     }]
 }
