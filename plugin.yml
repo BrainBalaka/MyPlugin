@@ -1,0 +1,11 @@
+name: 'MyPlugin'
+type: 'GeneratorProvider'
+author: 'Polyrific'
+version: '1.0.0'
+additional-configs:
+  - name: Greeting
+    label: Greeting
+    hint: The greeting message
+    type: string
+    is-required: false
+    is-secret: false
